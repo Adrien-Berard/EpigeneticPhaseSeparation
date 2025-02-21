@@ -4,9 +4,13 @@
 
 ### Epe1 Model Visualization
 
-[Watch Epe1 Model w/o Epe1 molecules](https://github.com/Adrien-Berard/EpigeneticPhaseSeparation/blob/main/ShortWithouthEpe1Model.mp4)
+### Epe1 Model Visualization
 
-[Watch Epe1 Model with Epe1 molecules](https://github.com/Adrien-Berard/EpigeneticPhaseSeparation/blob/main/ShortWithEpe1Model.mp4)
+#### Without Epe1 Molecules:
+<video src="https://github.com/Adrien-Berard/EpigeneticPhaseSeparation/raw/main/ShortWithouthEpe1Model.mp4" controls width="600"></video>
+
+#### With Epe1 Molecules:
+<video src="https://github.com/Adrien-Berard/EpigeneticPhaseSeparation/raw/main/ShortWithEpe1Model.mp4" controls width="600"></video>
 
 
 
