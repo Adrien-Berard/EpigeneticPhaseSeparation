@@ -2,8 +2,12 @@
 
 **Keywords** : Reactive Molecular Dynamics, LAMMPS, Python, Epigenetics, Polymer, Fission yeast
 
-![Epe1 Model w/o Epe1 molecules](ShortWithoutEpe1Model.mov)
-![Epe1 Model with Epe1 molecules](MShortWithEpe1Model.mp4)
+### Epe1 Model Visualization
+
+[Watch Epe1 Model w/o Epe1 molecules](https://github.com/Adrien-Berard/EpigeneticPhaseSeparation/blob/main/ShortWithouthEpe1Model.mp4)
+
+[Watch Epe1 Model with Epe1 molecules](https://github.com/Adrien-Berard/EpigeneticPhaseSeparation/blob/main/ShortWithEpe1Model.mp4)
+
 
 
 This code is being created and updated by Adrien Berard. This README is NOT finished.
