@@ -2,11 +2,10 @@
 
 **Keywords** : Reactive Molecular Dynamics, LAMMPS, Python, Epigenetics, Polymer, Fission yeast
 
-<video src="moviebistability.mp4" controls title="Movie of bistable chromatin simulation"></video>
 
-<video src="MovieWithoutEpe1.mov" controls title="Movie of Epe1 Model w/o Epe1 molecules"></video>
+<video src="ShortWithouthEpe1Model.mov" controls title="Movie of Epe1 Model w/o Epe1 molecules"></video>
 
-<video src="MovieWithEpe1.mov" controls title="Movie of Epe1 Model with Epe1 molecules"></video>
+<video src="MShortWitthEpe1Model.mov" controls title="Movie of Epe1 Model with Epe1 molecules"></video>
 
 This code is being created and updated by Adrien Berard. This README is NOT finished.
 
